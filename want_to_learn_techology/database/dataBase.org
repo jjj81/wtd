@@ -1,0 +1,10 @@
+
+*  TODO 脏读
+* 可重复读 级别
+
+- cap
+  [[http://markburgess.org/blog_cap.html]]
+
+* redis
+  - wiki
+    [[https://en.wikipedia.org/wiki/Redis]]

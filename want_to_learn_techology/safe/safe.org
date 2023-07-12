@@ -1,0 +1,7 @@
+
+
+* pem
+  [[https://stackoverflow.com/questions/991758/how-to-get-pem-file-from-key-and-crt-files][pem]]
+
+* c stack heap
+  [[https://en.wikipedia.org/wiki/.bss]]

@@ -1,0 +1,15 @@
+
+
+* net_work safe
+- rfc 791
+  [[https://www.rfc-editor.org/rfc/rfc791]]
+  
+- clash
+  [[https://github.com/Dreamacro/clash]]
+
+- uri
+  - wiki
+    [[https://en.wikipedia.org/wiki/Uniform_Resource_Identifier]]
+  
+* TODO problem
+  - how to change wifi in the linux command line 

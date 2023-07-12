@@ -1,0 +1,16 @@
+
+- how to be a linux user
+  [[https://duckduckgo.com/?q=linux+user&t=newext&atb=v371-1&iar=videos&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcC1CqyCN9Q0][dt]]
+- the art of command line
+  [[https://github.com/jlevy/the-art-of-command-line][1]]
+- dt
+  [[https://duckduckgo.com/?q=linux+sed&t=newext&atb=v371-1&iar=videos&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEACe7aiGczw][sed]]
+  [[https://duckduckgo.com/?q=linux+awk&t=newext&atb=v371-1&iar=videos&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9YOZmI-zWok][awk]]
+
+- sed
+
+- awk
+  [[https://www.pement.org/awk/awk1line.txt][1]]
+
+* TODO problem
+- in terminal move cursor

@@ -1,0 +1,111 @@
+
+* micosoft c++ document
+  [[https://learn.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170][micosoft]]
+  - multi_inherita
+    [[https://stackoverflow.com/questions/5910301/what-is-virtual-inheritance-in-c]]
+* lib 
+  - Cpplib [[https://cplusplus.com/reference/atomic/]]
+**  stl
+*** iterator
+    - wiki
+      [[https://en.wikipedia.org/wiki/Iterator#C++]]
+    - anonymous functions
+      [[https://en.wikipedia.org/wiki/Anonymous_function]]
+      - higher order function
+	[[https://en.wikipedia.org/wiki/Anonymous_function]]
+* cpp memery management
+** value categories
+    [[https://en.cppreference.com/w/cpp/language/value_category]]
+    - non const lvalue references and temp object
+      [[https://stackoverflow.com/questions/18565167/non-const-lvalue-references][1]]
+** pointer
+    - sizeof
+      x86 is always 64bit
+      [[https://stackoverflow.com/questions/3219562/why-cant-os-use-entire-64-bits-for-addressing-why-only-the-48-bits][1]]
+    - nullptr diff NULL
+      [[https://stackoverflow.com/questions/54098794/is-null-guaranteed-to-be-0][1]]
+    - reference diff pointer
+       [[https://stackoverflow.com/questions/114180/pointer-vs-reference]]
+       [[https://learn.microsoft.com/en-us/cpp/cpp/references-cpp?view=msvc-170]]
+    - refence &&
+  - malloc need delete ??
+    [[https://stackoverflow.com/questions/10854210/behaviour-of-malloc-with-delete-in-c]]
+  - new will call class constructor but malloc not will
+    [[https://www.geeksforgeeks.org/new-vs-malloc-and-free-vs-delete-in-c/#]]
+    -use [[https://stackoverflow.com/questions/2995099/malloc-and-constructors]]
+    - free diff with delete
+      [[https://stackoverflow.com/questions/240212/what-is-the-difference-between-new-delete-and-malloc-free][1]]
+*** smart_ptr
+    [[https://stackoverflow.com/questions/106508/what-is-a-smart-pointer-and-when-should-i-use-one][1]]
+    - why auto_ptr is dangerous?
+      [[https://stackoverflow.com/questions/3697686/why-is-auto-ptr-being-deprecated][1]]
+      official_rationale
+      [[https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1856.html#20.4.5%20-%20Class%20template%20auto_ptr][1]]
+    - when should you use smart_ptr
+      [[https://stackoverflow.com/questions/2454214/is-it-a-good-practice-to-always-use-smart-pointers][when and where use]]
+**** problem
+    - dangling reference
+      [[https://stackoverflow.com/questions/17997228/what-is-a-dangling-pointer]]
+      - wiki
+	[[https://en.wikipedia.org/wiki/Dangling_pointer]]
+    - sovle
+      - cpp reference counting
+	[[https://en.wikipedia.org/wiki/Reference_counting]]
+	- strong reference
+	- weak reference
+	- reference cycles
+    - wild pointer
+      
+* oop
+** inherit and polymorphism
+    override destructor in cpp
+    [[https://stackoverflow.com/questions/17093474/override-destructor-c]]
+    - when to use virtual destructor
+      [[https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors][11]]
+    - virtuality //you need read this
+      [[http://www.gotw.ca/publications/mill18.htm][1]]
+*** inherit vs compose
+    [[https://en.wikipedia.org/wiki/Composition_over_inheritance]]
+    - function
+    - copy constructor
+      [[https://stackoverflow.com/questions/5300602/template-return-type-with-default-value]]
+    - [[https://learn.microsoft.com/en-us/cpp/cpp/copy-constructors-and-copy-assignment-operators-cpp?view=msvc-170]]
+** key word
+    - typeid https://en.cppreference.com/w/cpp/language/typeid
+    - c++ and c operators [[https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B]]
+    - const
+      - refence
+	- when and why you should declear a variable const
+	  [[https://softwareengineering.stackexchange.com/questions/229470/are-there-advantages-to-declaring-stack-variables-constant-in-c][1]]
+	- is reference a object in cpp??
+	  [[https://en.cppreference.com/w/cpp/language/object]]
+      - is reference in bottom layer comply by pointer?? other name
+	- reference [[https://en.cppreference.com/w/cpp/language/reference]]
+	- reference diff pointer
+           [[https://stackoverflow.com/questions/92001/what-is-the-real-difference-between-pointers-and-references]]
+	- the last
+	  [[https://stackoverflow.com/questions/12408186/which-is-faster-pointer-access-or-reference-access]]
+	- if rekference just copy object to stack ,then compare to pointer which is faster and use memery less??
+	  - copy to stack speed vs find address
+	- return a object reference
+	  [[https://stackoverflow.com/questions/8914509/how-to-return-a-class-object-by-reference-in-c]]
+      - cpp const function
+	    [[https://learn.microsoft.com/en-us/cpp/cpp/const-cpp?view=msvc-170]]
+** copyConstructible moveConstructible Move_assignment Copy_assignment
+   - [[https://en.cppreference.com/w/cpp/concepts/move_constructible][move_constuctible]]
+- stl
+  - movable but non-copyable types
+** lambda and std::function
+   [[https://stackoverflow.com/questions/20353210/what-is-the-purpose-of-stdfunction-and-how-to-use-it][1]]
+   [[https://stackoverflow.com/questions/7627098/what-is-a-lambda-expression-in-c11][1]]
+   - operator
+     [[https://en.cppreference.com/w/cpp/language/operators]]
+* std
+** std::invoke
+   [[https://stackoverflow.com/questions/43680182/what-is-stdinvoke-in-c]]
+* TODO task
+- volatile
+- callback function
+- diff delete and delete[]
+- when and where use static
+

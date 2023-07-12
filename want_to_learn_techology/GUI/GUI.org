@@ -1,0 +1,11 @@
+
+* Wayland and xorg
+  - wayland
+    [[https://en.wikipedia.org/wiki/Wayland_(protocol)]]
+  - xorg
+  - wayland vs xorg
+    [[https://www.secjuice.com/wayland-vs-xorg/]]
+  - weston very good
+* tools
+** gtk
+   - [[https://en.wikipedia.org/wiki/GTK]]

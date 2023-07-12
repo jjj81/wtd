@@ -1,0 +1,18 @@
+
+* command
+  - size
+    info size
+** killall
+  - [[https://unix.stackexchange.com/questions/38987/kill-all-processes-related-to-an-application]]
+** TODO repo
+  - [[https://source.android.com/source/using-repo?hl=zh-cn]]
+
+- linux/unix info
+  - hard link vs soft link
+  - linux device
+    [[http://www.haifux.org/lectures/86-sil/kernel-modules-drivers/node10.html]]
+  - file handle [[https://www.baeldung.com/linux/stale-file-handles]] 
+
+* stable
+  - how to set default kernel
+    [[https://www.reisuke.com/change-default-kernel-fedora/]]

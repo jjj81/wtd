@@ -1,0 +1,17 @@
+
+#+author: jsw
+* i3 document
+  [[https://i3wm.org/docs/]]
+* linux i3 vedio problem
+  [[https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/intel-igfx-troubleshooting.md]]
+   - voice
+   pavucontrole
+* i3 how to run wayland program?
+  - [[https://www.reddit.com/r/i3wm/comments/11udnhv/anyone_knows_how_can_i_get_waydroid_running_on_i3/]]
+
+
+
+* sway
+  - github
+    [[https://github.com/swaywm/sway/blob/master/README.zh-CN.md]]
+  

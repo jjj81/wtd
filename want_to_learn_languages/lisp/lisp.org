@@ -1,0 +1,4 @@
+
+* info emacs lisp
+[[https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html#Top][man lisp]]
+** schedule

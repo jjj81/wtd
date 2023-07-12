@@ -1,0 +1,7 @@
+
+* TODO problem
+- 有效的使用gitignre
+  - how to del ~file
+  - not add password file
+- jdtls project buffer
+ 

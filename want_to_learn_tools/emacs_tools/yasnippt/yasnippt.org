@@ -1,0 +1,7 @@
+* yasnippt github page
+[[https://github.com/joaotavora/yasnippet][yasnippt]]
+
+- yasnippet-snippets
+  [[https://github.com/AndreaCrotti/yasnippet-snippets/tree/master/snippets][snippets]]
+- there was always figth with company-mode;
+  - or user costomize snippets

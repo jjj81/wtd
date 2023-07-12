@@ -1,0 +1,6 @@
+
+
+- xdg
+  [[https://en.wikipedia.org/wiki/Wayland_(protocol)#XDG-Shell_protocol]]
+  
+- wayland

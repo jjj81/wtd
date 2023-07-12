@@ -1,0 +1,10 @@
+
+
+
+- bazel
+  - wiki
+    [[https://en.wikipedia.org/wiki/Bazel_(software)]]
+  - make cmake and bazel vs
+    [[https://nalys-taas-projects.gitlab.io/internal/taas_blog/post/bazel_vs_make/][1]]
+
+- apache ant

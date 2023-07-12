@@ -1,0 +1,5 @@
+
+
+
+-  bitbise oprations in c
+   [[https://en.wikipedia.org/wiki/Bitwise_operations_in_C]]

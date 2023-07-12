@@ -1,0 +1,5 @@
+
+
+* TODO gtags 100%
+  - lsp java net error 2
+- up emacs open speed

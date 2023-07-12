@@ -1,0 +1,7 @@
+
+
+- move line in screen
+  [[https://unix.stackexchange.com/questions/110251/how-to-put-current-line-at-top-center-bottom-of-screen-in-vim]]
+  
+- vim text-obj
+  [[https://vimdoc.sourceforge.net/htmldoc/motion.html#object-select][vim doc]]

@@ -1,0 +1,33 @@
+
+
+- arm
+  - wiki
+    [[https://en.wikipedia.org/wiki/ARM_architecture_family]]
+
+- aarch64
+  - wiki
+    [[https://en.wikipedia.org/wiki/AArch64]]
+    
+- virtualization
+  - qemu
+    - wiki [[https://en.wikipedia.org/wiki/QEMU]]
+    - User Mode Emulation
+      [[https://www.qemu.org/docs/master/user/main.html]]
+  - kvm
+    - wiki
+      [[https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine]]
+  - diff kvm and qemu
+    [[https://linuxconfig.org/qemu-vs-kvm-hypervisor-whats-the-difference]]
+- architectures, e.g. x86, sparc, ARM, etc
+  - sparc
+    - wiki
+      [[https://en.wikipedia.org/wiki/SPARC]]
+- .so .a  .o
+  - stack
+    [[https://stackoverflow.com/questions/31179452/what-exactly-is-in-a-o-a-so-file]]
+  - some binary format
+    binary file in some format(ELF, COFF, a.out, ...).
+  
+    
+  
+  

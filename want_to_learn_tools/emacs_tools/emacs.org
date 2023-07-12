@@ -1,0 +1,13 @@
+
+* comment [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Comment-Commands.html]]
+
+* problem
+  - emacs stuck
+    [[https://irreal.org/blog/?p=4763]]
+* emacs tags 
+  - gnu global
+    - emacs xref
+      [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Xref.html][1]]
+* emacs debugger
+  - gud
+    [[https://www.emacswiki.org/emacs/GrandUnifiedDebugger][1]]

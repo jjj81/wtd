@@ -1,0 +1,22 @@
+
+
+
+* virtualization
+  - qemu
+    - wiki [[https://en.wikipedia.org/wiki/QEMU]]
+    - User Mode Emulation
+      [[https://www.qemu.org/docs/master/user/main.html]]
+  - kvm
+    - wiki
+      [[https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine]]
+  - diff kvm and qemu
+    [[https://linuxconfig.org/qemu-vs-kvm-hypervisor-whats-the-difference]]
+  - gnome boxes is good
+    - libvirtd
+      [[https://en.wikipedia.org/wiki/Libvirt]]
+    - how to open libvirtd
+      [[https://www.libvirt.org/manpages/libvirtd.html]] 
+    
+* waydroid
+  - document
+    [[https://docs.waydro.id/faq/using-adb-with-waydroid]]

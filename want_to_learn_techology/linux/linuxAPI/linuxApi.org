@@ -1,0 +1,7 @@
+
+
+* TODO linux api
+
+* exec
+[[https://www.baeldung.com/linux/exec-functions]]
+

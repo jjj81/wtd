@@ -1,0 +1,19 @@
+
+
+* communicate
+- communicate program with others
+  [[https://app.element.io/#/room/#cpplang:matrix.org]]
+
+* health.org
+- heart
+  [[https://zh.wikipedia.org/wiki/File:Heart_attack_video.webm]]
+
+* wifi
+  - 204
+    - 13260636146
+  - company
+    - xzjsoftware p:xzj20190124
+  - worknumber
+    - W9045312
+
+

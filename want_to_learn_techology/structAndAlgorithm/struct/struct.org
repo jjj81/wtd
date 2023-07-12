@@ -1,0 +1,17 @@
+
+
+
+* tree
+
+* mysql
+** b+ tree
+** b tree
+** b- tree
+
+
+* heap
+[[https://en.wikipedia.org/wiki/Heap_(data_structure)]]
+
+
+* b_r_tree
+[[https://en.wikipedia.org/wiki/Red–black_tree]]

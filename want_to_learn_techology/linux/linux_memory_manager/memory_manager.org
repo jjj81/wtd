@@ -1,0 +1,11 @@
+
+
+
+- linux brk() and sbrk()
+  [[https://en.wikipedia.org/wiki/Sbrk]]
+
+- mmap
+  [[https://linux-kernel-labs.github.io/refs/heads/master/labs/memory_mapping.html]]
+
+- logical virtual physical address
+  [[https://stackoverflow.com/questions/15851225/difference-between-physical-logical-virtual-memory-address][1]]

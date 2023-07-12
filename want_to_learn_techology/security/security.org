@@ -1,0 +1,3 @@
+
+
+- SHA-1 [[https://en.wikipedia.org/wiki/SHA-1]] is not safe now

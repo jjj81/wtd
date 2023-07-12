@@ -1,0 +1,11 @@
+
+
+
+*  google dev document
+   [[https://developer.android.com/training/articles/perf-jni?hl=zh-cn]]
+**  vedio and audio documemt
+   -  [[https://developer.android.com/guide/topics/media/media-formats?hl=zh-cn][1]]
+** platform tools
+* ffmpeg
+  - wiki
+    [[https://en.wikipedia.org/wiki/FFmpeg]]
