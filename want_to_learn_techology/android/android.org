@@ -1,11 +1,17 @@
 
 
 
-*  google dev document
-   [[https://developer.android.com/training/articles/perf-jni?hl=zh-cn]]
-**  vedio and audio documemt
+* android
+  [[ https://developer.android.com/training/articles/perf-jni?hl=zh-cn]]
+** vedio and audio documemt
    -  [[https://developer.android.com/guide/topics/media/media-formats?hl=zh-cn][1]]
 ** platform tools
-* ffmpeg
-  - wiki
+** ffmpeg
+  + wiki
     [[https://en.wikipedia.org/wiki/FFmpeg]]
+** jni
+  +  [[https://www.baeldung.com/jni]]
+** android binder
+  + ppt [[/home/jsw/book/android-binder-ipc.pdf]]
+*** AIDL
+  + [[https://developer.android.com/guide/components/aidl?hl=zh-cn]]

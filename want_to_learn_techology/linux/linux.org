@@ -1,4 +1,6 @@
 
+* wiki
+  [[https://en.wikipedia.org/wiki/Linux]]
 * command
   - size
     info size

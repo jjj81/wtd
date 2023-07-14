@@ -1,0 +1,4 @@
+
+
+* diff proxy and mediator
+  [[https://stackoverflow.com/questions/73206094/what-is-difference-between-proxy-design-pattern-and-mediator][1]]
