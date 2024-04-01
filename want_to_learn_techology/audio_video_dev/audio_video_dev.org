@@ -1,0 +1,11 @@
+** vedio and audio 
+   -  [[https://developer.android.com/guide/topics/media/media-formats?hl=zh-cn][1]]
+*** media player
+   + [[https://developer.android.com/guide/topics/media/mediaplayer#java]]
+   + state [[https://developer.android.com/reference/android/media/MediaPlayer]]
+     + idle [[https://en.wikipedia.org/wiki/Idle_(CPU)]]
+*** basic concept
+**** pcm [[Ahttps://en.wikipedia.org/wiki/Pulse-code_modulation][1]]
+*** ffmpeg
+  + wiki
+    [[https://en.wikipedia.org/wiki/FFmpeg]]

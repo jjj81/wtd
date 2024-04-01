@@ -1,0 +1,11 @@
+
+* faq
+** qmainwidow qwidget diff qdialog [[https://stackoverflow.com/questions/3298792/whats-the-difference-between-qmainwindow-qwidget-and-qdialog][1]]
+** qtCreator
++  cr shirt t  search object relation
++  c f  doc search
++  c 连续选择
++ f4  header cpp  file jump
++ Previous open document in history Ctrl+Tab
++ ALT+LEFT_ARROW and ALT+RIGHT_ARROW are very useful here. It will get you to the last edit location quickly. 
+

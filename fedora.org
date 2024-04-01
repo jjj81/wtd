@@ -1,0 +1,6 @@
+
+
+* problem
++ can't open chrome
+  + [[https://discussion.fedoraproject.org/t/google-chrome-stable-will-not-run-after-latest-update/96000][thank my frend]]
+  

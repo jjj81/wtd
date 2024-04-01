@@ -1,9 +1,8 @@
 
-* comment [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Comment-Commands.html]]
-
+* comment [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Comment-Commands.html][1]]
 * problem
-  - emacs stuck
-    [[https://irreal.org/blog/?p=4763]]
+  + emacs stuck  [[https://irreal.org/blog/?p=4763][1]]
+  + super user  [[https://emacs.stackexchange.com/questions/52/edit-file-with-super-user-rights][1]]
 * emacs tags 
   - gnu global
     - emacs xref
@@ -11,3 +10,5 @@
 * emacs debugger
   - gud
     [[https://www.emacswiki.org/emacs/GrandUnifiedDebugger][1]]
+* auto_save
+  + [[https://stackoverflow.com/questions/12031830/what-are-file-and-file-and-how-can-i-get-rid-of-them][1]]

@@ -1,4 +1,18 @@
 
 * info emacs lisp
-[[https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html#Top][man lisp]]
-** schedule
++ [[https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html#Top][man lisp]]
+** elisp
++ nil and t
+  + nil
+    + nil 符号
+    + ()  
+    + 真值为假
+      #+begin_src lisp
+	(cons 'foo ())                ; Emphasize the empty list
+	(setq foo-flag nil)           ; Emphasize the truth value false
+      #+end_src
+  + t true
+*** function
+*** datetype
+
+Z

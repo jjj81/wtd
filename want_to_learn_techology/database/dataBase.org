@@ -1,10 +1,17 @@
 
-*  TODO 脏读
-* 可重复读 级别
 
-- cap
-  [[http://markburgess.org/blog_cap.html]]
-
-* redis
-  - wiki
+* record
+** mysql
+*** 脏读
+*** 可重复读 级别
+*** cap
+ [[http://markburgess.org/blog_cap.html][1]]
+*** mysql datatype
+ [[https://dev.mysql.com/doc/refman/8.0/en/data-types.html][1]]
+*** mysql skills
+**** rename
++ database [[https://stackoverflow.com/questions/67093/how-do-i-rename-a-mysql-database-change-schema-name][1]]
++ column [[https://stackoverflow.com/questions/30290880/rename-a-column-in-mysql][1]] 
+** redis
+   - wiki
     [[https://en.wikipedia.org/wiki/Redis]]

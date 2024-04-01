@@ -1,10 +1,13 @@
-
-
 * communicate
+- telegrem
+  + telegrem x can recive message code
 - communicate program with others
-  [[https://app.element.io/#/room/#cpplang:matrix.org]]
-
+  [[https://app.element.io/#/room/#cpplang:matrix.org][good club]]
+* music
+** spotify
++ node is important ,america is ok
 * health.org
 - heart
-  [[https://zh.wikipedia.org/wiki/File:Heart_attack_video.webm]]
+  [[https://zh.wikipedia.org/wiki/File:Heart_attack_video.webm][care about your heart]]
 
+  

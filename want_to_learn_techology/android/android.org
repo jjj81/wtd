@@ -1,17 +1,64 @@
 
 
 
+* encoder and decoder
++ [[https://www.tomshardware.com/reference/h264-h265-hevc-codec-definition][hevc/h265 avc/h264]]
+  + [[https://www.winxdvd.com/resource/h265-vs-h264.htm]]
++ [[https://www.winxdvd.com/video-transcoder/6-factors-decide-video-quality-bitrate-resolution-framerate.htm][视频 质量]]
++ [[https://opensource.hcltechsw.com/volt-mx-native-function-docs/Android/android.media-Android-10.0/#!/api/android.media.MediaCodec][documentation android]]
+    
+* framework
++ c2 
 * android
-  [[ https://developer.android.com/training/articles/perf-jni?hl=zh-cn]]
-** vedio and audio documemt
+  + [[https://developer.android.com/training/articles/perf-jni?hl=zh-cn][1]]
+  + source code [[https://source.android.com/docs/setup/download/downloading?hl=zh-cn][1]]
+** vedio and audio 
    -  [[https://developer.android.com/guide/topics/media/media-formats?hl=zh-cn][1]]
-** platform tools
+*** media player
+   + [[https://developer.android.com/guide/topics/media/mediaplayer#java][1]]
+   + state [[https://developer.android.com/reference/android/media/MediaPlayer][1]]
+     + idle [[https://en.wikipedia.org/wiki/Idle_(CPU)][1]]
+*** 音视频基本概念
+**** 帧率
++ 每妙显示的帧数
+**** 分辨率
++ 视频成像产品所形成的图像大小或尺寸
+**** 码率
++ 码率就是比特率，码率是单位时间播放连续斗媒体（如压缩的音频或视频）bit counts. du file = 码率 * 时长
+**** 编码格式
++ 编码的目的是为了压缩数据量,
+**** 封装格式
++ 把编码后的音视频数据以一定格式封装到一个容器
+*** 编解码
+**** mediaplayer
++ mediaplayer 是android的一个多媒体播放类，我们能通过它控制音视频流或本地音视频资源的播放过程
+
 ** ffmpeg
   + wiki
     [[https://en.wikipedia.org/wiki/FFmpeg]]
 ** jni
   +  [[https://www.baeldung.com/jni]]
-** android binder
-  + ppt [[/home/jsw/book/android-binder-ipc.pdf]]
+** binder
+  + ppt [[/home/jsw/book/android/android-binder-ipc.pdf]]
++ [[https://stackoverflow.com/questions/68859648/in-android-what-b-the-prefix-in-bbinder-stands-for][bbinder bpbinder]]
 *** AIDL
   + [[https://developer.android.com/guide/components/aidl?hl=zh-cn]]
+**** stub
+  + rpc [[https://stackoverflow.com/questions/10648280/what-is-stub-and-aidl-for-in-java]]
+**** parcel
+  + rpc parcel [[https://developer.android.com/reference/android/os/Parcel]]
+  + flattened data [[https://stackoverflow.com/questions/4740415/database-flattened-out-vs-normalized]]
+  + in network is byte array?
+    + [[https://stackoverflow.com/questions/18000093/how-to-marshall-and-unmarshall-a-parcelable-to-a-byte-array-with-help-of-parcel]]
+    + [[https://stackoverflow.com/questions/4019837/what-do-we-mean-by-byte-array][byte array]]
+** activity
+   + [[https://developer.android.com/guide/components/activities/intro-activities?hl=zh-cn]]
+** debug
++ [[https://stackoverflow.com/questions/11549366/print-the-current-back-stack-in-the-log][how to print app back stack ]]
+  + [[https://blog.csdn.net/yong_xu/article/details/124884506?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170813947316777224413919%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=170813947316777224413919&biz_id=0&spm=1018.2226.3001.4187][1]]
+** android emulators
++ [[https://itsfoss.com/android-emulators-linux/][1]]
+*** waydroid [[https://docs.waydro.id/][1]]
+
+* android应用开发
++ 第一个android app [[https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?hl=zh-cn#2][1]]

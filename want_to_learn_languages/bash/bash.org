@@ -5,7 +5,6 @@
   +  find / -name jni_md.h 2> /dev/null
 ** the art of command line
   +  [[https://github.com/jlevy/the-art-of-command-line][1]]
-
 ** sed
 ** awk
   +  [[https://www.pement.org/awk/awk1line.txt][1]]

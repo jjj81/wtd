@@ -1,0 +1,12 @@
+
+* hot key
++ c b p  select the previous window 
++ c b n  select a next window 
++ c b c  create a new window
++ c b ,  rename cureent window 
++ c b o  select a window next pane
++ c b x  delete the pane
+** arg
++ tmux  attach-session  -s getFrameAtTime  come back seesion
++ tmux  attach-session  -s getFrameAtTime
+

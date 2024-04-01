@@ -8,3 +8,6 @@
     [[https://nalys-taas-projects.gitlab.io/internal/taas_blog/post/bazel_vs_make/][1]]
 
 - apache ant
+
+* gerrit
++ [[https://www.gerritcodereview.com/][1]]

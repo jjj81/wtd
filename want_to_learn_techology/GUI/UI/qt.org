@@ -1,0 +1,33 @@
+
+
+
+* faq
+** pt diff px [[https://stackoverflow.com/questions/3557260/should-i-use-pt-or-px][1]]
+** how to import qss file [[https://stackoverflow.com/questions/4810729/qt-setstylesheet-from-a-resource-qss-file][1]]
+#+begin_src cpp
+  QFile file("");
+  file.open(QFile::ReadOnly);
+  QString styleSheet = QLatin1String(file.readAll());
+  qApp->setStyleSheet(styleSheet); 
+#+end_src
+** style example
+*** online [[https://doc.qt.io/qt-6/stylesheet-examples.html#customizing-qradiobutton][1]]
+*** code
+#+begin_src cpp 
+  this->setWindowFlag(Qt::FramelessWindowHint); // 无边框
+  this->setAttribute(Qt::WA_TranslucentBackground); //透明背景 
+#+end_src
+
+** qss file comment
+/* */ is ok
+** ui layout
+#+begin_src cpp
+  // in widget.cpp ui
+  this->setLayout(ui->horizontalLayout);
+#+end_src
+*** rgb color [[https://www.rgbku.com/][1]]
+*** insert image
+#+begin_src  cpp
+  QImage image(":/1889712.png");
+  ui->icon->setPixmap(QPixmap::fromImage(image.scaled(ui->icon->width(),ui->icon->height())));
+#+end_src

@@ -1,7 +1,8 @@
 
 
-* pem
-  [[https://stackoverflow.com/questions/991758/how-to-get-pem-file-from-key-and-crt-files][pem]]
-
-* c stack heap
+** pem
+  [[https://stackoverflow.com/questions/991758/how-to-get-pem-file-from-key-and-crt-files][1]]
+** c stack heap
   [[https://en.wikipedia.org/wiki/.bss]]
+** hash_algorithm
+*** SHA-1 [[https://en.wikipedia.org/wiki/SHA-1][1 ]] is not safe now

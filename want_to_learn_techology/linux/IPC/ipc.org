@@ -1,0 +1,6 @@
+
+
+* semaphores diff signals
+  [[https://stackoverflow.com/questions/18328195/linux-semaphores-spinlock-or-signals][1]]
+* IPC
+  +  book [[/home/jsw/book/inter-process_communication_in_linux.pdf]]

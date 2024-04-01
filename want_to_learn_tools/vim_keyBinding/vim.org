@@ -1,7 +1,14 @@
-
-
-- move line in screen
-  [[https://unix.stackexchange.com/questions/110251/how-to-put-current-line-at-top-center-bottom-of-screen-in-vim]]
-  
-- vim text-obj
+* record
+** skills
+*** move line in screen
+  [[https://unix.stackexchange.com/questions/110251/how-to-put-current-line-at-top-center-bottom-of-screen-in-vim][1]]
+*** / next or prev
+ [[https://stackoverflow.com/questions/6607630/find-next-in-vim][1]]
+** vim text-obj
   [[https://vimdoc.sourceforge.net/htmldoc/motion.html#object-select][vim doc]]
+** marco
+** run shell inside vim
+:ter
+** split
++ set mouse=a
++ Ctrl-w followed by H, J, K or L (capital) will move the current window to the far left, bottom, top or right respectively like normal cursor navigation.

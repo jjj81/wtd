@@ -1,4 +1,6 @@
 
 
-* rust network
-[[https://doc.rust-lang.org/book/print.html][rust net tutorial]]
+* rust 
+  + tutoral  [[https://doc.rust-lang.org/book/print.html][rust net tutorial]]
+** call c
+  + [[https://opensource.com/article/22/11/rust-calls-c-library-functions]]
